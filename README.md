@@ -1,6 +1,6 @@
 REPORT : https://docs.google.com/document/d/1XtdX1JycsGkk3PoZsiEXg9z_SFZm5F5tZ4T5hMQ-L30/edit?usp=drivesdk
 
-DEMO VIDEO: 
+DEMO VIDEO: https://drive.google.com/file/d/1JxKTjAeOyr-EiVLWu4O1G7aXUZLL8XPJ/view?usp=drive_link
 
 # AutoJudge – Predicting Programming Problem Difficulty
 AutoJudge is a machine learning project where the goal is to predict the difficulty of programming problems automatically.
